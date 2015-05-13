@@ -1,0 +1,1 @@
+<div class="alert alert-success">Contact # <?php echo html_escape($contact->c_id); ?>Added</div>
